@@ -1,0 +1,4 @@
+Tophat-recondition unmapped bam files from tophat for further downstream analysis
+
+Documentation:
+https://github.com/cbrueffer/tophat-recondition
